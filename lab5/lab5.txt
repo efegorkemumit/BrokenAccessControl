@@ -1,0 +1,4 @@
+POST / HTTP/1.1
+X-Original-URL: /admin/deleteUser
+...
+
